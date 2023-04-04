@@ -1,4 +1,4 @@
-## Dear Mojang,
+## Eaglercraft 9/12/2022
 
 I am one of the developers of a project that has recently become a large target of your DMCA team, the project in question is "Eaglercraft" which is a series of full HTML5/JavaScript ports of Minecraft Java Edition's source code that run on all major browsers and are fully compatible with all existing Minecraft multiplayer infrastructure.
 
